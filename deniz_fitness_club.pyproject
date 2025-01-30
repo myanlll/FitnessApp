@@ -1,0 +1,12 @@
+{
+    "files": [
+        "mainwindow.py",
+        "form.ui",
+        "plandakiler.ui",
+        "ara_egitmen.ui",
+        "bul.ui",
+        "egitmenler.ui",
+        "planlama.ui",
+        "uyeler.ui"
+    ]
+}
