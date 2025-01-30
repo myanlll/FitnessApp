@@ -28,14 +28,6 @@ Bu uygulama, MSSQL veritabanı ile çalışmakta ve QtPy kullanılarak geliştir
 2. Egzersiz planları tarih aralıklarıyla oluşturulabilir ve üyeler ile eğitmenler arasında atanabilir.
 3. Var olan planları silebilir veya bitiş tarihlerini belirtilen günlere uzatabilirsiniz.
 
-
-## Katkıda Bulunanlar
-
-- myanlll
-
-## Lisans
-
-Bu proje GNU Genel Kamu Lisansı v3 altında lisanslanmıştır. Daha fazla bilgi için `LICENSE`
 ---
 
 ## English Version
